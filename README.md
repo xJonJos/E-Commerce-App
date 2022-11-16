@@ -12,12 +12,12 @@ git clone https://github.com/Codeminant/E-Commerce-App.git
 
 Change the PWD to ProShop/frontend and run the command below
 
-    ```
-    npm install
-    ```
+```
+ npm install
+```
 
 Run below command to locally run the frontend in browser.
 
-    ```
-    npm start
-    ```
+```
+npm start
+```
