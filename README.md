@@ -2,7 +2,7 @@
 
 ![ProShop](images/ProShop.png)
 
-# How to build this project locally? (Windows OS Only)
+# How to build this project locally?
 
 Clone this repo using the below code.
 
